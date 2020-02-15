@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\opencv_test\internet_\eye_dete\eye_dete\constants.h(18): warning C4305: “初始化”: 从“double”到“float”截断
+d:\opencv_test\internet_\eye_dete\eye_dete\constants.h(29): warning C4305: “初始化”: 从“double”到“float”截断
+d:\opencv_test\internet_\eye_dete\eye_dete\main.cpp(77): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\opencv_test\internet_\eye_dete\eye_dete\main.cpp(78): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\opencv_test\internet_\eye_dete\eye_dete\main.cpp(79): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\opencv_test\internet_\eye_dete\eye_dete\main.cpp(82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  eye_dete.vcxproj -> D:\OpenCV_Test\Internet_\eye_dete\x64\Debug\eye_dete.exe

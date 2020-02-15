@@ -1,0 +1,11 @@
+﻿  findEyeCenter.cpp
+d:\opencv_test\internet_\eye_dete\eye_dete\constants.h(15): warning C4305: “初始化”: 从“double”到“float”截断
+d:\opencv_test\internet_\eye_dete\eye_dete\constants.h(26): warning C4305: “初始化”: 从“double”到“float”截断
+findEyeCenter.cpp(17): warning C4068: 未知的杂注
+findEyeCenter.cpp(45): warning C4068: 未知的杂注
+findEyeCenter.cpp(49): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(50): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(75): warning C4068: 未知的杂注
+findEyeCenter.cpp(194): warning C4068: 未知的杂注
+LINK : fatal error LNK1104: 无法打开文件“D:\OpenCV_Test\Internet_\eye_dete\x64\Release\eye_dete.exe”
